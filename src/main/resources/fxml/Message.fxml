@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<fx:root maxHeight="-Infinity" prefHeight="26.0" spacing="10.0" type="HBox" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label fx:id="address" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="125.0" text="example.example@example.com">
+            <font>
+                <Font name="Arial" size="13.0" />
+            </font>
+        </Label>
+        <Label fx:id="subject" minWidth="100.0" text="example example example">
+            <font>
+                <Font name="Arial Bold" size="13.0" />
+            </font>
+        </Label>
+        <Label fx:id="body" maxHeight="-Infinity" prefHeight="26.0" text="example example example example" textFill="#00000089">
+            <font>
+                <Font name="Arial" size="13.0" />
+            </font>
+        </Label>
+        <Pane fx:id="paneFill" HBox.hgrow="ALWAYS" />
+        <Label fx:id="date" minHeight="-Infinity" minWidth="-Infinity" text="99.99.9999">
+            <font>
+                <Font name="Arial" size="13.0" />
+            </font>
+        </Label>
+    </children>
+    <padding>
+        <Insets bottom="5.0" left="10.0" right="10.0" top="5.0" />
+    </padding>
+</fx:root>
