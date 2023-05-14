@@ -1,5 +1,5 @@
 # EmailClient
-Simple email client with graphical interface written in java. 
+Simple email client with graphical user interface written in java. 
 Dependencies:
 - JDK 17+
 - JavaFX
