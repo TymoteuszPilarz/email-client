@@ -1,5 +1,5 @@
 # EmailClient
-Simple email client with graphical user interface written in java. 
+Simple email client with graphical user interface written in java.<br/>
 SMPT and POP3 protocols are used for sending and receiving emails respectively.
 
 Dependencies:
