@@ -1,6 +1,8 @@
 # EmailClient
 Simple email client with graphical user interface written in java.<br/>
-SMPT and POP3 protocols are used for sending and receiving emails respectively. Currently only polish email service provider - "Wirtualna Polska" is supported but it's easy to add your own by providing appropriate class in src/main/java/emailclient/providers, similar to the already created "WPClient". Note that some more secure email service providers cannot be added since they may require protocols like OAuth, which are not implemented in this application.
+SMPT and POP3 protocols are being used for sending and receiving emails respectively.<br/> 
+Currently only polish email service provider - "Wirtualna Polska" is supported but it's easy to add your own by providing appropriate class in src/main/java/emailclient/providers, similar to the already created "WPClient".<br/>
+Note that some more secure email service providers cannot be added since they may require protocols like OAuth, which are not implemented in this application.
 
 # Demonstration
 |<img width="1096" alt="screenshot1" src="https://github.com/TymoteuszPilarz/email-client/assets/122737837/d57c8097-046e-4deb-a2d2-c6343a724699">|
