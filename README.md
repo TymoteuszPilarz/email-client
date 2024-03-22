@@ -5,5 +5,6 @@ SMPT and POP3 protocols are used for sending and receiving emails respectively. 
 # Demonstration
 <img width="1096" alt="screenshot1" src="https://github.com/TymoteuszPilarz/email-client/assets/122737837/d57c8097-046e-4deb-a2d2-c6343a724699">
 <b>Fig. 1 Sign in window </b>
+
 <img width="1097" alt="screenshot2" src="https://github.com/TymoteuszPilarz/email-client/assets/122737837/408e31f2-bfe5-463a-a159-7b3e73b2a535">
 <b>Fig. 2 Mailbox window </b>
