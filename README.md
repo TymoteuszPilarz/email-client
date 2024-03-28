@@ -1,4 +1,4 @@
-# EmailClient
+# Email Client
 Simple email client with graphical user interface written in Java.
 
 SMPT and POP3 protocols are being used for sending and receiving emails respectively.
